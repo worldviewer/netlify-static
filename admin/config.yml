@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: worldviewer/netlify-test # Path to your Github repository
+  repo: worldviewer/netlify-static # Path to your Github repository
   branch: master # Branch to update (master by default)
   site_domain: controversies-of-science.netlify.com
 
